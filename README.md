@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Amit
 - 😉 Always interested in beating challenges
+- 👔 Currently working at FIS Global
 - 👀 I’m interested in Full Stack project
 - 🌱 I’m currently learning Mobile apps development.
 - 📫 Reach me @ amit25509@gmail.com
